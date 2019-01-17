@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0d49e2a9-a14e-4260-bf6d-88a2f9c99abf" name="openrma" url="http://193.29.187.128">
+        <fileTransfer host="193.29.187.128" port="21" rootFolder="/public_html/modules/servers/mysqldb">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
